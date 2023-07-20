@@ -1,4 +1,4 @@
-## Olá, eu sou o Kauan Henrick, desenvolvedor front-end!
+## Olá, eu sou o Kauan Henrick, desenvolvedor front-end! 👋
 
 - 🌱 Atualmente, aprendendo React Js
 - 👯 Procurando colaborar em **desenvolvimento web**
