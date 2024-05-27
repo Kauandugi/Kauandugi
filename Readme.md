@@ -16,6 +16,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandugi&layout=compact&theme=github_dark)](https://github.com/Kauandugi)
 <br>
 
+> [!NOTE]
+> Projeto em destaque: https://kauandugi.github.io/Projeto-website-adocoes-de-pets/
+
 <!--![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)-->
 <br>
 
@@ -38,8 +41,6 @@
   <img align="center" alt="Kauan-Photoshop" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   
 </div>
-> [!NOTE]
-> Projeto em destaque: https://kauandugi.github.io/Projeto-website-adocoes-de-pets/
   
   #
 <br>
