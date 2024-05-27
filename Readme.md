@@ -15,6 +15,8 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandugi&layout=compact&theme=github_dark)](https://github.com/Kauandugi)
 <br>
+> [!NOTE]
+> Projeto em destaque: https://kauandugi.github.io/Projeto-website-adocoes-de-pets/
 
 <!--![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)-->
 <br>
