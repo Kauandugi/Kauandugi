@@ -38,11 +38,10 @@
   <img align="center" alt="Kauan-Photoshop" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   
 </div>
-  
-  #
-<br>
 > [!NOTE]
 > Projeto em destaque: https://kauandugi.github.io/Projeto-website-adocoes-de-pets/
+  
+  #
 <br>
  
 <div> 
