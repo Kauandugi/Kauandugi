@@ -40,7 +40,7 @@
 </div>
   
   #
-  <br>
+<br>
 > [!NOTE]
 > Projeto em destaque: https://kauandugi.github.io/Projeto-website-adocoes-de-pets/
 <br>
