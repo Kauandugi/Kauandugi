@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente, aprendendo React Js
 - 👯 Procurando colaborar em **desenvolvimento web**
-- 🎓 Ciências da Computação - UEMS (5° semestre)
+- 🎓 Ciências da Computação - UEMS (6° semestre)
 - 📫 dev.kauanhenrick@gmail.com
 - 💻 Aberto a novas oportunidades
 - ⚡ Em constante evolução
