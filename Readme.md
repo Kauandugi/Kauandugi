@@ -17,7 +17,7 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 <br>
 
 > [!NOTE]
-> 🔍 Projeto em destaque (Pesquisa & P&D): [Framework de Auditoria de Viés em IA](https://github.com/Kauandugi/ai-bias-audit-framework)
+> 🔍 Projeto em destaque (Pesquisa & P&D): [Protótipo de front-end (MVP)]([https://github.com/Kauandugi/ai-bias-audit-framework](https://github.com/Kauandugi/gpt-members-saas-ui))
 
 <br>
 
