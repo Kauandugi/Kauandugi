@@ -1,10 +1,12 @@
-## Olá, eu sou o Kauan Henrick, desenvolvedor front-end! 👋
+## Olá, eu sou o Kauan Henrick! 👋
+**Desenvolvedor Full-Stack & Pesquisador em IA Generativa**
 
-- 🌱 Atualmente, aprendendo React Js
-- 👯 Procurando colaborar em **desenvolvimento web**
-- 🎓 Ciências da Computação - UEMS (7° semestre)
-- 📫 dev.kauanhenrick@gmail.com
-- 💻 Aberto a novas oportunidades
+Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditoria de Viés Algorítmico na UEMS. Combino rigor acadêmico com visão de produto.
+
+- 🏆 Liderança Técnica da equipe vencedora do Startup Weekend (Techstars)
+- 🌎 Pesquisador de Intercâmbio pela Universidad Nacional de Colombia (UNAL)
+- 📄 Co-autor de artigo sobre IA na conferência internacional INTED 2026
+- 💻 Stack principal: **React.js, Node.js, TypeScript e Python (Data Science/Computer Vision)**
 
 
 #
@@ -26,18 +28,9 @@
   <img align="center" alt="Kauan-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kauan-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kauan-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Kauan-Bulma" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
   <img align="center" alt="Kauan-Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kauan-Anaconda" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Kauan-C" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Kauan-Cpp" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Kauan-CMake" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg">
   <img align="center" alt="Kauan-linux" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Kauan-visual-studio" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Kauan-git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Kauan-github" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Kauan-figma" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Kauan-Photoshop" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   
 </div>
   
@@ -46,7 +39,7 @@
  
 <div> 
   <a href = "mailto:dev.kauanhenrick@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauan-henrick-790639195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/kauan-henrick-790639195/](https://www.linkedin.com/in/kauan-henrick-teixeira-da-silva-790639195/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/Kauandugi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   
 </div>
