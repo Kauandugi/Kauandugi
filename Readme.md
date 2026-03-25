@@ -8,7 +8,6 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 - 📄 Co-autor de artigo sobre IA na conferência internacional INTED 2026
 - 💻 Stack principal: **React.js, Node.js, TypeScript e Python (Data Science/Computer Vision)**
 
-
 #
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
@@ -18,17 +17,16 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 <br>
 
 > [!NOTE]
-> Projeto em destaque: https://kauandugi.github.io/Projeto-website-adocoes-de-pets/
+> 🔍 Projeto em destaque (Pesquisa & P&D): [Framework de Auditoria de Viés em IA](https://github.com/Kauandugi/ai-bias-audit-framework)
 
-<!--![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)-->
 <br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kauan-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kauan-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kauan-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kauan-TS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Kauan-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Kauan-Node" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Kauan-Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kauan-C" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Kauan-linux" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Kauan-git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
@@ -38,8 +36,13 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 <br>
  
 <div> 
-  <a href = "mailto:dev.kauanhenrick@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/kauan-henrick-790639195/](https://www.linkedin.com/in/kauan-henrick-teixeira-da-silva-790639195/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Kauandugi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  
+  <a href="mailto:dev.kauanhenrick@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/kauan-henrick-teixeira-da-silva-790639195/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Kauandugi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
