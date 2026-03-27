@@ -10,28 +10,30 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 
 #
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true">
-  </picture>
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Kauan's GitHub Stats - Dark" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Kauan's GitHub Stats - Light" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kauandugi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandugi&layout=compact&theme=github_dark&hide=html,css" />
+  </a>
+</p>
 
 <br/>
-
-<a href="https://github.com/Kauandugi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandugi&layout=compact&theme=github_dark" />
-</a>
-
-<br/><br/><br/><br/><br/><br/>
 
 > [!NOTE]
-> 🔍 **Projeto em destaque (Pesquisa & P&D):** [Framework de Auditoria de Viés em IA](https://github.com/Kauandugi/ai-bias-audit-framework)
+> 🔍 **Projeto em destaque (Protótipo de front-end (MVP):** [Framework de Auditoria de Viés em IA (TCC/INTED)]([https://github.com/Kauandugi/ai-bias-audit-framework](https://github.com/Kauandugi/gpt-members-saas-ui))
 
 <br/>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Kauan-TS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Kauan-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kauan-Node" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -44,7 +46,7 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 #
 <br>
 
-<div> 
+<div align="center"> 
   <a href="mailto:dev.kauanhenrick@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
