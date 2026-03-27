@@ -10,16 +10,26 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 
 #
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandugi&layout=compact&theme=github_dark)](https://github.com/Kauandugi)
-<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true">
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://github.com/Kauandugi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandugi&layout=compact&theme=github_dark" />
+</a>
+
+<br/><br/><br/><br/><br/><br/>
 
 > [!NOTE]
-> 🔍 Projeto em destaque (Pesquisa & P&D): [Protótipo de front-end (MVP)]([https://github.com/Kauandugi/ai-bias-audit-framework](https://github.com/Kauandugi/gpt-members-saas-ui))
+> 🔍 **Projeto em destaque (Pesquisa & P&D):** [Framework de Auditoria de Viés em IA](https://github.com/Kauandugi/ai-bias-audit-framework)
 
-<br>
+<br/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-TS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -29,12 +39,11 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
   <img align="center" alt="Kauan-C" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Kauan-linux" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Kauan-git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  
 </div>
-  
-  #
+
+#
 <br>
- 
+
 <div> 
   <a href="mailto:dev.kauanhenrick@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
