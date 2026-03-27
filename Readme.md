@@ -11,19 +11,13 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 #
 
 <p align="center">
-  <a href="https://github.com/Kauandugi">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Kauan's GitHub Stats - Dark" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats Dark" />
   &nbsp;
-  <a href="https://github.com/Kauandugi">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Kauan's GitHub Stats - Light" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats Light" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kauandugi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandugi&layout=compact&theme=github_dark&hide=html,css" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauandugi&layout=compact&theme=github_dark&hide=html,css" alt="Top Languages" />
 </p>
 
 <br/>
