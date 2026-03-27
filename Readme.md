@@ -10,20 +10,14 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 
 #
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats Dark" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats Light" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/Kauandugi">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauandugi&layout=compact&theme=github_dark&hide=html,css" alt="Top Langs" />
-  </a>
-</p>
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <br>
 
