@@ -10,14 +10,14 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 
 #
 
+<p align="center">
+  [![Kauan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Kauan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+</p>
 
-
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandugi&layout=compact&theme=github_dark)](https://github.com/Kauandugi)
+</p>
 
 <br>
 
