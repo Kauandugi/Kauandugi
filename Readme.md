@@ -11,12 +11,12 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 #
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Kauan's GitHub Stats - Dark" />
+  <a href="https://github.com/Kauandugi">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Kauan's GitHub Stats - Dark" />
   </a>
   &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Kauan's GitHub Stats - Light" />
+  <a href="https://github.com/Kauandugi">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kauandugi&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Kauan's GitHub Stats - Light" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 <br/>
 
 > [!NOTE]
-> 🔍 **Projeto em destaque (Protótipo de front-end (MVP):** [Framework de Auditoria de Viés em IA (TCC/INTED)]([https://github.com/Kauandugi/ai-bias-audit-framework](https://github.com/Kauandugi/gpt-members-saas-ui))
+> 🔍 **Projeto em destaque (Protótipo de front-end (MVP):** ([https://github.com/Kauandugi/ai-bias-audit-framework](https://github.com/Kauandugi/gpt-members-saas-ui))
 
 <br/>
 
