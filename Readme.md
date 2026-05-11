@@ -5,7 +5,7 @@ Atualmente construindo soluções escaláveis no P&D da ed e pesquisando Auditor
 
 - 🏆 Liderança Técnica da equipe vencedora do Startup Weekend (Techstars)
 - 🌎 Pesquisador de Intercâmbio pela Universidad Nacional de Colombia (UNAL)
-- 📄 Co-autor de artigo sobre IA na conferência internacional INTED 2026
+- 📄 Autor de artigo sobre IA na conferência internacional INTED 2026
 - 💻 Stack principal: **React.js, Node.js, TypeScript e Python (Data Science/Computer Vision)**
 
 #
